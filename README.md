@@ -66,39 +66,6 @@ Compile the Java files:
 3.
 Run the main application:
 
-Project Structure
-
-Plain Text
-
-
-Java-unitConverter/
-├── nbproject/             # NetBeans project files
-├── src/
-│   └── unit/
-│       └── convertor/
-│           ├── Area.java
-│           ├── Conversion.java
-│           ├── DataStorage.java
-│           ├── Energy.java
-│           ├── Frequency.java
-│           ├── GUI.form
-│           ├── GUI.java
-│           ├── Length.java
-│           ├── Power.java
-│           ├── Pressure.java
-│           ├── Speed.java
-│           ├── Temperature.java
-│           ├── Time.java
-│           ├── UnitConvertor.java
-│           ├── Volume.java
-│           ├── WeightMass.java
-│           ├── convert-icon.png
-│           └── copy-icon.png
-├── build.xml
-├── manifest.mf
-└── README.md
-
-
 Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or want to add new unit categories, please feel free to open an issue or submit a pull request.
